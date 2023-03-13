@@ -1,0 +1,21 @@
+body {
+    font-family: monospace;
+}
+.light-mode {
+    background-color: white;
+    color: black;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+.theme-control-btn {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+    border-radius: 10px;
+    border: none;
+    padding: 8px;
+    color: aliceblue;
+    cursor: pointer;
+}
